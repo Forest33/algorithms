@@ -1,2 +1,2 @@
-binarySearch(data []int, key int) int - бинарный поиск, O(log n)
-bubbleSort(data []int) - сортировка пузырьком, O(n²)
+- [binarySearch(data []int, key int) int](https://github.com/Forest33/algorithms/blob/master/binarysearch.go) - бинарный поиск, O(log n)
+- [bubbleSort(data []int)](https://github.com/Forest33/algorithms/blob/master/bubblesearch.go) - сортировка пузырьком, O(n²)
