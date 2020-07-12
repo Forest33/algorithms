@@ -1,6 +1,6 @@
 package main
 
-func bubbleSort(data []int) {
+func BubbleSort(data []int) {
 	n := len(data)
 	for {
 		var exchange = false

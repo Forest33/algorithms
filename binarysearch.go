@@ -1,6 +1,6 @@
 package main
 
-func binarySearch(data []int, key int) int {
+func BinarySearch(data []int, key int) int {
 	lo := 0
 	hi := len(data) - 1
 	for lo <= hi {
